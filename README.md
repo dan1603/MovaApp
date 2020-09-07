@@ -30,6 +30,10 @@ This is a test android application, which allows user to search random Gif image
 #### Api
 For retreiving random gif-image by keyword, the Giphy API is used.
 
+#### Release
+
+You can download apk file <a href="https://drive.google.com/file/d/1_nDLLaw1G5V7SJulfVKrzMODYcpJ46zo/view?usp=sharing">here</a>.
+
 #### Demonstration
 
 <img src="https://i.imgur.com/b57oPxC.jpg" width=300 /><img src="https://i.imgur.com/dx69fyk.jpg" width=300 />
